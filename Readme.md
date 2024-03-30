@@ -28,3 +28,7 @@ This script retrieves the `Binance Coins Tags List` associated with trading pair
 ## Support
 
 For any issues or suggestions, please open an issue on GitHub.
+
+
+
+![Binance Coin Tags List](https://imgur.com/a/SDEg8fK)
