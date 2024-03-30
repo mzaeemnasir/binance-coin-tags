@@ -1,0 +1,379 @@
+symbol,tags
+1000SATSUSDT,"['Seed', 'Meme']"
+1INCHUSDT,['defi']
+AAVEUSDT,['defi']
+ACAUSDT,"['defi', 'Polkadot', 'Layer1_Layer2']"
+ACEUSDT,"['Gaming', 'Launchpool', 'Seed']"
+ACHUSDT,['Payments']
+ACMUSDT,['fan_token']
+ADAUSDT,"['Layer1_Layer2', 'pos', 'mining-zone']"
+ADXUSDT,['Infrastructure']
+AERGOUSDT,['']
+AEURUSDT,['stablecoin']
+AEVOUSDT,"['defi', 'newListing', 'Seed', 'Layer1_Layer2', 'Launchpool']"
+AGIXUSDT,['AI']
+AGLDUSDT,"['NFT', 'innovation-zone', 'Gaming', 'Seed']"
+AIUSDT,"['AI', 'Seed', 'Launchpool', 'Gaming']"
+AKROUSDT,"['Monitoring', 'Polkadot', 'defi']"
+ALCXUSDT,['defi']
+ALGOUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+ALICEUSDT,"['Gaming', 'innovation-zone', 'NFT', 'Metaverse', 'Launchpool', 'Seed']"
+ALPACAUSDT,"['defi', 'BSC', 'bnbchain']"
+ALPHAUSDT,"['defi', 'innovation-zone', 'Launchpad', 'Launchpool', 'Seed']"
+ALPINEUSDT,"['fan_token', 'Launchpad']"
+ALTUSDT,"['Infrastructure', 'Launchpool', 'Seed']"
+AMBUSDT,"['Monitoring', 'pos', 'Layer1_Layer2']"
+AMPUSDT,['defi']
+ANKRUSDT,"['liquid_staking', 'pow', 'pos', 'defi']"
+APEUSDT,['NFT']
+API3USDT,['Infrastructure']
+APTUSDT,['Layer1_Layer2']
+ARBUSDT,['Layer1_Layer2']
+ARDRUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+ARKMUSDT,"['Infrastructure', 'Launchpad', 'Seed', 'innovation-zone']"
+ARKUSDT,"['Monitoring', 'pos', 'Layer1_Layer2']"
+ARPAUSDT,"['Layer1_Layer2', 'Infrastructure']"
+ARUSDT,['storage-zone']
+ASRUSDT,"['fan_token', 'Launchpool', 'bnbchain', 'innovation-zone', 'Seed']"
+ASTRUSDT,"['Layer1_Layer2', 'Polkadot', 'Infrastructure']"
+ASTUSDT,['defi']
+ATAUSDT,"['Infrastructure', 'Launchpool', 'Polkadot', 'innovation-zone', 'Seed']"
+ATMUSDT,"['fan_token', 'Launchpool', 'bnbchain', 'innovation-zone', 'Seed']"
+ATOMUSDT,"['Layer1_Layer2', 'pos']"
+AUCTIONUSDT,"['defi', 'innovation-zone', 'Seed']"
+AUDIOUSDT,['NFT']
+AVAUSDT,[]
+AVAXUSDT,"['Layer1_Layer2', 'pos', 'RWA']"
+AXLUSDT,"['Layer1_Layer2', 'Infrastructure', 'Seed', 'newListing']"
+AXSUSDT,"['Gaming', 'Metaverse', 'Launchpad', 'NFT']"
+BADGERUSDT,"['defi', 'innovation-zone', 'Seed']"
+BAKEUSDT,"['defi', 'bnbchain', 'innovation-zone', 'NFT', 'Seed']"
+BALUSDT,['defi']
+BANDUSDT,"['Infrastructure', 'pos', 'Launchpad', 'defi']"
+BARUSDT,"['fan_token', 'innovation-zone', 'Seed']"
+BATUSDT,['Infrastructure']
+BCHUSDT,"['pow', 'mining-zone', 'Payments']"
+BEAMXUSDT,"['Gaming', 'Launchpool']"
+BELUSDT,"['defi', 'innovation-zone', 'BSC', 'Launchpool', 'bnbchain', 'Seed']"
+BETAUSDT,"['Monitoring', 'Launchpad', 'defi']"
+BICOUSDT,['Infrastructure']
+BIFIUSDT,"['defi', 'bnbchain', 'innovation-zone', 'Seed']"
+BLURUSDT,"['NFT', 'Seed']"
+BLZUSDT,['storage-zone']
+BNBUSDT,"['Layer1_Layer2', 'BSC', 'pos', 'bnbchain']"
+BNTUSDT,['defi']
+BNXUSDT,"['Gaming', 'innovation-zone', 'NFT', 'bnbchain', 'Seed']"
+BOMEUSDT,"['Meme', 'newListing', 'Seed']"
+BONDUSDT,"['Monitoring', 'defi']"
+BONKUSDT,"['Meme', 'Seed']"
+BSWUSDT,"['defi', 'BSC', 'bnbchain', 'innovation-zone', 'Seed']"
+BTCUSDT,"['pow', 'mining-zone', 'Payments']"
+BTTCUSDT,"['storage-zone', 'Launchpad', 'pos']"
+BURGERUSDT,"['Metaverse', 'Gaming', 'innovation-zone', 'bnbchain', 'Seed']"
+C98USDT,"['defi', 'bnbchain', 'Launchpad']"
+CAKEUSDT,"['defi', 'BSC', 'bnbchain']"
+CELOUSDT,"['Layer1_Layer2', 'defi']"
+CELRUSDT,"['Layer1_Layer2', 'Launchpad']"
+CFXUSDT,"['Layer1_Layer2', 'pow']"
+CHESSUSDT,"['liquid_staking', 'innovation-zone', 'defi', 'Seed']"
+CHRUSDT,"['Layer1_Layer2', 'NFT', 'RWA']"
+CHZUSDT,"['Layer1_Layer2', 'fan_token', 'NFT']"
+CITYUSDT,"['fan_token', 'Launchpool']"
+CKBUSDT,"['Layer1_Layer2', 'pow']"
+CLVUSDT,"['Infrastructure', 'pos']"
+COMBOUSDT,"['Gaming', 'bnbchain', 'NFT', 'mining-zone', 'Metaverse', 'Layer1_Layer2']"
+COMPUSDT,['defi']
+COSUSDT,[]
+COTIUSDT,['Payments']
+CREAMUSDT,"['Monitoring', 'defi']"
+CRVUSDT,['defi']
+CTKUSDT,"['Launchpool', 'pos', 'bnbchain', 'Infrastructure']"
+CTSIUSDT,"['Layer1_Layer2', 'pos', 'Launchpad']"
+CTXCUSDT,"['Layer1_Layer2', 'mining-zone', 'pow', 'AI']"
+CVCUSDT,['Infrastructure']
+CVPUSDT,"['defi', 'innovation-zone', 'Seed']"
+CVXUSDT,"['defi', 'innovation-zone', 'Seed']"
+CYBERUSDT,"['Infrastructure', 'Seed', 'Launchpool']"
+DARUSDT,"['Gaming', 'BSC', 'NFT', 'bnbchain', 'Metaverse', 'Launchpool']"
+DASHUSDT,"['pow', 'pos', 'mining-zone']"
+DATAUSDT,['Infrastructure']
+DCRUSDT,"['Layer1_Layer2', 'pos', 'mining-zone', 'pow']"
+DEGOUSDT,"['defi', 'innovation-zone', 'bnbchain', 'Launchpad', 'NFT', 'Seed']"
+DENTUSDT,['Infrastructure']
+DEXEUSDT,"['defi', 'innovation-zone', 'Seed']"
+DFUSDT,"['defi', 'innovation-zone', 'Seed']"
+DGBUSDT,"['pow', 'mining-zone']"
+DIAUSDT,"['Infrastructure', 'pos', 'mining-zone', 'defi']"
+DOCKUSDT,['Infrastructure']
+DODOUSDT,"['defi', 'Launchpool', 'bnbchain', 'innovation-zone', 'Seed']"
+DOGEUSDT,"['pow', 'mining-zone', 'Meme']"
+DOTUSDT,"['Layer1_Layer2', 'Polkadot', 'pos']"
+DREPUSDT,"['Monitoring', 'pos', 'Layer1_Layer2']"
+DUSKUSDT,"['Infrastructure', 'RWA']"
+DYDXUSDT,['defi']
+DYMUSDT,"['Infrastructure', 'Layer1_Layer2', 'Seed', 'newListing']"
+EDUUSDT,['Launchpad']
+EGLDUSDT,"['Layer1_Layer2', 'Launchpad', 'pos']"
+ELFUSDT,"['Monitoring', 'mining-zone', 'pos', 'Layer1_Layer2']"
+ENJUSDT,"['Gaming', 'NFT']"
+ENSUSDT,['Infrastructure']
+EOSUSDT,"['Layer1_Layer2', 'pos']"
+EPXUSDT,"['defi', 'innovation-zone', 'bnbchain', 'Seed']"
+ERNUSDT,"['NFT', 'innovation-zone', 'Seed']"
+ETCUSDT,"['Layer1_Layer2', 'mining-zone', 'pow']"
+ETHFIUSDT,"['defi', 'newListing', 'Launchpool', 'Seed']"
+ETHUSDT,"['Layer1_Layer2', 'pos', 'mining-zone']"
+EURUSDT,[]
+FARMUSDT,['defi']
+FDUSDUSDT,['stablecoin']
+FETUSDT,"['Infrastructure', 'pos', 'Launchpad', 'AI']"
+FIDAUSDT,['defi']
+FILUSDT,['storage-zone']
+FIOUSDT,"['Infrastructure', 'NFT', 'pos']"
+FIROUSDT,['Monitoring']
+FISUSDT,"['liquid_staking', 'innovation-zone', 'defi', 'Seed']"
+FLMUSDT,"['defi', 'innovation-zone', 'Launchpool', 'Seed']"
+FLOKIUSDT,"['Meme', 'innovation-zone', 'Gaming', 'Metaverse', 'Seed']"
+FLOWUSDT,['Layer1_Layer2']
+FLUXUSDT,"['Infrastructure', 'pow', 'Layer1_Layer2']"
+FORTHUSDT,['defi']
+FORUSDT,"['defi', 'bnbchain', 'innovation-zone', 'Seed']"
+FRONTUSDT,"['defi', 'innovation-zone', 'Seed']"
+FTMUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+FTTUSDT,['Monitoring']
+FUNUSDT,[]
+FXSUSDT,"['liquid_staking', 'defi']"
+GALAUSDT,"['Gaming', 'bnbchain', 'NFT']"
+GALUSDT,"['Infrastructure', 'innovation-zone', 'Launchpool', 'Seed']"
+GASUSDT,[]
+GFTUSDT,"['Monitoring', 'Launchpad']"
+GHSTUSDT,"['Gaming', 'innovation-zone', 'defi', 'NFT', 'Metaverse', 'Seed']"
+GLMRUSDT,"['Layer1_Layer2', 'Polkadot']"
+GLMUSDT,['Infrastructure']
+GMTUSDT,"['NFT', 'Launchpad']"
+GMXUSDT,"['defi', 'innovation-zone']"
+GNOUSDT,['Layer1_Layer2']
+GNSUSDT,"['defi', 'innovation-zone', 'Seed']"
+GRTUSDT,"['Infrastructure', 'AI']"
+GTCUSDT,['Infrastructure']
+HARDUSDT,"['defi', 'Launchpool', 'innovation-zone', 'Seed']"
+HBARUSDT,"['Layer1_Layer2', 'pos']"
+HFTUSDT,"['defi', 'Launchpool', 'Seed', 'innovation-zone']"
+HIFIUSDT,"['defi', 'RWA']"
+HIGHUSDT,"['Metaverse', 'NFT', 'Launchpool']"
+HIVEUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+HOOKUSDT,"['Launchpad', 'innovation-zone', 'bnbchain', 'Infrastructure', 'Seed']"
+HOTUSDT,"['Layer1_Layer2', 'storage-zone']"
+ICPUSDT,"['Layer1_Layer2', 'RWA']"
+ICXUSDT,"['Layer1_Layer2', 'pos']"
+IDEXUSDT,['defi']
+IDUSDT,"['Infrastructure', 'innovation-zone', 'bnbchain', 'Launchpad', 'Seed']"
+ILVUSDT,"['Gaming', 'Metaverse']"
+IMXUSDT,"['Layer1_Layer2', 'NFT', 'Gaming']"
+INJUSDT,"['Layer1_Layer2', 'pos', 'BSC', 'Launchpad', 'bnbchain', 'defi']"
+IOSTUSDT,"['Layer1_Layer2', 'pos']"
+IOTAUSDT,"['Layer1_Layer2', 'pow']"
+IOTXUSDT,"['Layer1_Layer2', 'pos', 'Infrastructure']"
+IQUSDT,['AI']
+IRISUSDT,['']
+JASMYUSDT,"['Monitoring', 'Infrastructure']"
+JOEUSDT,['defi']
+JSTUSDT,['defi']
+JTOUSDT,"['Seed', 'liquid_staking', 'defi']"
+JUPUSDT,"['defi', 'Seed']"
+JUVUSDT,"['fan_token', 'innovation-zone', 'bnbchain', 'Launchpool', 'Seed']"
+KAVAUSDT,"['Layer1_Layer2', 'pos', 'mining-zone', 'Launchpad', 'defi']"
+KDAUSDT,"['Layer1_Layer2', 'pow']"
+KEYUSDT,['Infrastructure']
+KLAYUSDT,"['Layer1_Layer2', 'Launchpool', 'defi']"
+KMDUSDT,"['pow', 'mining-zone']"
+KNCUSDT,['defi']
+KP3RUSDT,"['Monitoring', 'innovation-zone', 'defi', 'Infrastructure']"
+KSMUSDT,"['Layer1_Layer2', 'pos', 'Polkadot']"
+LAZIOUSDT,"['fan_token', 'Launchpad']"
+LDOUSDT,"['liquid_staking', 'defi']"
+LEVERUSDT,"['defi', 'innovation-zone', 'Seed']"
+LINAUSDT,"['Monitoring', 'bnbchain', 'defi']"
+LINKUSDT,['Infrastructure']
+LITUSDT,"['Infrastructure', 'innovation-zone', 'Polkadot', 'Launchpool', 'defi', 'Seed']"
+LOKAUSDT,"['Gaming', 'Launchpad']"
+LOOMUSDT,"['Monitoring', 'Layer1_Layer2']"
+LPTUSDT,"['Infrastructure', 'pos']"
+LQTYUSDT,"['defi', 'innovation-zone', 'Seed']"
+LRCUSDT,['defi']
+LSKUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+LTCUSDT,"['pow', 'mining-zone', 'Payments']"
+LTOUSDT,"['Layer1_Layer2', 'RWA']"
+LUNAUSDT,"['Layer1_Layer2', 'pos', 'mining-zone', 'defi']"
+LUNCUSDT,"['Layer1_Layer2', 'pos', 'defi']"
+MAGICUSDT,"['Gaming', 'NFT', 'innovation-zone', 'Metaverse', 'Seed']"
+MANAUSDT,"['Metaverse', 'Gaming', 'NFT']"
+MANTAUSDT,"['Layer1_Layer2', 'Launchpool', 'Seed']"
+MASKUSDT,['Infrastructure']
+MATICUSDT,"['Layer1_Layer2', 'Launchpad', 'pos']"
+MAVUSDT,"['defi', 'Launchpool']"
+MBLUSDT,[]
+MBOXUSDT,"['Gaming', 'Launchpool', 'BSC', 'bnbchain', 'NFT', 'Metaverse', 'defi']"
+MDTUSDT,"['Infrastructure', 'AI']"
+MDXUSDT,"['Monitoring', 'BSC', 'bnbchain', 'innovation-zone', 'defi']"
+MEMEUSDT,"['Meme', 'Seed', 'Launchpool']"
+METISUSDT,"['Layer1_Layer2', 'Seed', 'newListing']"
+MINAUSDT,"['Layer1_Layer2', 'pos']"
+MKRUSDT,"['defi', 'RWA']"
+MLNUSDT,"['Monitoring', 'defi']"
+MOBUSDT,['Monitoring']
+MOVRUSDT,['Layer1_Layer2']
+MTLUSDT,['Infrastructure']
+NEARUSDT,"['Layer1_Layer2', 'pos']"
+NEOUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+NEXOUSDT,[]
+NFPUSDT,"['AI', 'Seed', 'NFT', 'Launchpool']"
+NKNUSDT,"['Infrastructure', 'mining-zone', 'pow']"
+NMRUSDT,"['defi', 'AI']"
+NTRNUSDT,"['Layer1_Layer2', 'Seed']"
+NULSUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+OAXUSDT,['Monitoring']
+OCEANUSDT,"['Infrastructure', 'AI']"
+OGNUSDT,['NFT']
+OGUSDT,"['fan_token', 'BSC', 'Launchpool', 'bnbchain', 'innovation-zone', 'Seed']"
+OMGUSDT,"['Monitoring', 'pos', 'Layer1_Layer2']"
+OMUSDT,"['Layer1_Layer2', 'innovation-zone', 'Seed', 'RWA']"
+ONEUSDT,"['Layer1_Layer2', 'mining-zone', 'Launchpad', 'pos']"
+ONGUSDT,[]
+ONTUSDT,"['Layer1_Layer2', 'pos', 'mining-zone', 'BSC', 'bnbchain', 'pow']"
+OOKIUSDT,"['Monitoring', 'defi']"
+OPUSDT,['Layer1_Layer2']
+ORDIUSDT,"['Meme', 'Seed']"
+ORNUSDT,['defi']
+OSMOUSDT,"['defi', 'pos', 'Layer1_Layer2']"
+OXTUSDT,['Infrastructure']
+PAXGUSDT,[]
+PDAUSDT,['Gaming']
+PENDLEUSDT,"['defi', 'innovation-zone', 'Launchpool', 'Seed', 'RWA']"
+PEOPLEUSDT,"['innovation-zone', 'Meme', 'Seed']"
+PEPEUSDT,"['Meme', 'innovation-zone', 'Seed']"
+PERPUSDT,"['defi', 'innovation-zone', 'Seed']"
+PHAUSDT,"['Infrastructure', 'Polkadot', 'innovation-zone', 'Seed']"
+PHBUSDT,"['Layer1_Layer2', 'AI']"
+PIVXUSDT,['mining-zone']
+PIXELUSDT,"['Gaming', 'newListing', 'Launchpool', 'Seed']"
+PNTUSDT,"['Monitoring', 'defi']"
+POLSUSDT,"['defi', 'BSC', 'bnbchain', 'innovation-zone', 'Seed']"
+POLYXUSDT,"['Layer1_Layer2', 'Infrastructure', 'pos', 'RWA']"
+PONDUSDT,"['defi', 'innovation-zone', 'Seed']"
+PORTALUSDT,"['Gaming', 'newListing', 'Launchpool', 'Seed']"
+PORTOUSDT,"['fan_token', 'Launchpad']"
+POWRUSDT,[]
+PROMUSDT,"['NFT', 'Seed']"
+PROSUSDT,"['defi', 'innovation-zone', 'Seed']"
+PSGUSDT,"['fan_token', 'BSC', 'Launchpool', 'bnbchain', 'innovation-zone', 'Seed']"
+PUNDIXUSDT,['Payments']
+PYRUSDT,"['Gaming', 'Metaverse', 'NFT']"
+PYTHUSDT,"['Infrastructure', 'Seed']"
+QIUSDT,"['liquid_staking', 'Launchpool', 'defi']"
+QKCUSDT,"['Layer1_Layer2', 'pos', 'mining-zone', 'pow']"
+QNTUSDT,['Infrastructure']
+QTUMUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+QUICKUSDT,['defi']
+RADUSDT,['Infrastructure']
+RAREUSDT,['NFT']
+RAYUSDT,['defi']
+RDNTUSDT,"['defi', 'Launchpool', 'Seed', 'innovation-zone']"
+REEFUSDT,"['Monitoring', 'defi', 'Polkadot', 'Launchpool', 'innovation-zone', 'Layer1_Layer2']"
+REIUSDT,['Layer1_Layer2']
+RENUSDT,"['Monitoring', 'mining-zone', 'pos', 'defi']"
+REQUSDT,[]
+RIFUSDT,"['Layer1_Layer2', 'storage-zone', 'pow', 'defi']"
+RLCUSDT,"['Infrastructure', 'AI']"
+RNDRUSDT,['Infrastructure']
+RONINUSDT,"['Gaming', 'Layer1_Layer2', 'Seed']"
+ROSEUSDT,['Layer1_Layer2']
+RPLUSDT,"['liquid_staking', 'innovation-zone', 'defi', 'Seed']"
+RSRUSDT,"['defi', 'RWA']"
+RUNEUSDT,['defi']
+RVNUSDT,"['pow', 'mining-zone']"
+SANDUSDT,"['Metaverse', 'Gaming', 'Launchpad', 'NFT']"
+SANTOSUSDT,"['fan_token', 'Launchpool']"
+SCRTUSDT,"['Layer1_Layer2', 'pos']"
+SCUSDT,"['storage-zone', 'pow', 'mining-zone']"
+SEIUSDT,"['Layer1_Layer2', 'Seed', 'Launchpool']"
+SFPUSDT,"['Infrastructure', 'Launchpad', 'bnbchain', 'BSC']"
+SHIBUSDT,['Meme']
+SKLUSDT,['Layer1_Layer2']
+SLPUSDT,"['Gaming', 'NFT', 'Metaverse', 'innovation-zone', 'Seed']"
+SNTUSDT,['ALTS']
+SNXUSDT,"['defi', 'RWA']"
+SOLUSDT,"['Layer1_Layer2', 'pos', 'mining-zone']"
+SPELLUSDT,['defi']
+SSVUSDT,['Infrastructure']
+STEEMUSDT,['']
+STGUSDT,"['defi', 'innovation-zone', 'Seed']"
+STMXUSDT,[]
+STORJUSDT,['storage-zone']
+STPTUSDT,[]
+STRAXUSDT,"['Layer1_Layer2', 'pos']"
+STRKUSDT,"['Layer1_Layer2', 'newListing', 'Seed']"
+STXUSDT,"['Layer1_Layer2', 'mining-zone', 'storage-zone', 'pow']"
+SUIUSDT,"['Layer1_Layer2', 'Launchpool', 'pos']"
+SUNUSDT,"['defi', 'innovation-zone', 'Seed']"
+SUPERUSDT,"['NFT', 'defi', 'innovation-zone', 'Seed']"
+SUSHIUSDT,"['defi', 'innovation-zone']"
+SXPUSDT,['Layer1_Layer2']
+SYNUSDT,"['defi', 'innovation-zone', 'Seed']"
+SYSUSDT,"['Layer1_Layer2', 'pos', 'mining-zone', 'pow']"
+TFUELUSDT,[]
+THETAUSDT,"['Layer1_Layer2', 'mining-zone', 'AI', 'Infrastructure']"
+TIAUSDT,"['Infrastructure', 'Seed']"
+TKOUSDT,['Launchpad']
+TLMUSDT,"['Gaming', 'Launchpool', 'BSC', 'bnbchain', 'Metaverse']"
+TRBUSDT,"['Infrastructure', 'defi', 'pos', 'mining-zone', 'pow']"
+TROYUSDT,['Launchpad']
+TRUUSDT,"['defi', 'innovation-zone', 'Seed', 'RWA']"
+TRXUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+TUSDT,['Infrastructure']
+TUSDUSDT,['stablecoin']
+TWTUSDT,"['Infrastructure', 'BSC', 'bnbchain']"
+UFTUSDT,"['defi', 'innovation-zone', 'Seed']"
+UMAUSDT,['defi']
+UNFIUSDT,"['defi', 'innovation-zone', 'BSC', 'Launchpool', 'bnbchain', 'Seed']"
+UNIUSDT,['defi']
+USDCUSDT,['stablecoin']
+USDPUSDT,['stablecoin']
+USTCUSDT,['defi']
+UTKUSDT,['Payments']
+VANRYUSDT,"['Layer1_Layer2', 'Metaverse', 'NFT', 'Seed']"
+VETUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+VGXUSDT,['Monitoring']
+VIBUSDT,[]
+VICUSDT,['Layer1_Layer2']
+VIDTUSDT,"['Layer1_Layer2', 'innovation-zone', 'Seed']"
+VITEUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+VOXELUSDT,"['Gaming', 'Launchpad']"
+VTHOUSDT,[]
+WANUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+WAVESUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+WAXPUSDT,"['NFT', 'Layer1_Layer2', 'defi', 'Gaming']"
+WBETHUSDT,['liquid_staking']
+WBTCUSDT,[]
+WIFUSDT,"['Meme', 'newListing', 'Seed']"
+WINGUSDT,"['defi', 'innovation-zone', 'Launchpool', 'Seed']"
+WINUSDT,['Infrastructure']
+WLDUSDT,"['AI', 'Infrastructure']"
+WNXMUSDT,"['defi', 'innovation-zone', 'Seed']"
+WOOUSDT,['defi']
+WRXUSDT,"['Monitoring', 'Launchpad']"
+XAIUSDT,"['Gaming', 'Launchpool', 'Seed']"
+XECUSDT,[]
+XEMUSDT,"['Monitoring', 'mining-zone', 'pos', 'Layer1_Layer2']"
+XLMUSDT,"['Layer1_Layer2', 'mining-zone']"
+XNOUSDT,['Payments']
+XRPUSDT,"['Layer1_Layer2', 'Payments']"
+XTZUSDT,"['Layer1_Layer2', 'mining-zone', 'pos']"
+XVGUSDT,"['pow', 'mining-zone']"
+XVSUSDT,"['defi', 'Launchpool', 'bnbchain']"
+YFIUSDT,['defi']
+YGGUSDT,['Gaming']
+ZECUSDT,"['Monitoring', 'pow']"
+ZENUSDT,"['Monitoring', 'pow']"
+ZILUSDT,"['Layer1_Layer2', 'pow']"
+ZRXUSDT,['defi']
